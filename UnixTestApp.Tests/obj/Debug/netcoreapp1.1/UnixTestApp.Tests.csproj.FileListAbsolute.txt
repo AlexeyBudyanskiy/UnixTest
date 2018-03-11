@@ -12,3 +12,17 @@ D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp.Tests\obj\Debug\netcoreapp
 D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp.Tests\obj\Debug\netcoreapp1.1\UnixTestApp.Tests.pdb
 D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\UnixTestApp.dll
 D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\UnixTestApp.pdb
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\UnixTestApp.Tests.deps.json
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\UnixTestApp.Tests.runtimeconfig.json
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\UnixTestApp.Tests.runtimeconfig.dev.json
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\UnixTestApp.Tests.dll
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\UnixTestApp.Tests.pdb
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\UnixTestApp.dll
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\bin\Debug\netcoreapp1.1\UnixTestApp.pdb
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\obj\Debug\netcoreapp1.1\UnixTestApp.Tests.csprojResolveAssemblyReference.cache
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\obj\Debug\netcoreapp1.1\UnixTestApp.Tests.AssemblyInfo.cs
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\obj\Debug\netcoreapp1.1\UnixTestApp.Tests.dll
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTest\UnixTestApp.Tests\obj\Debug\netcoreapp1.1\UnixTestApp.Tests.pdb

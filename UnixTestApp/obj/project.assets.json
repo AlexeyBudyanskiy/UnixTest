@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Univer\\Unix\\Labs\\Lab1\\Proj\\UnixTestApp\\UnixTestApp\\UnixTestApp.csproj",
+      "projectUniqueName": "D:\\Univer\\Unix\\Labs\\Lab1\\Proj\\UnixTest\\UnixTestApp\\UnixTestApp.csproj",
       "projectName": "UnixTestApp",
-      "projectPath": "D:\\Univer\\Unix\\Labs\\Lab1\\Proj\\UnixTestApp\\UnixTestApp\\UnixTestApp.csproj",
-      "outputPath": "D:\\Univer\\Unix\\Labs\\Lab1\\Proj\\UnixTestApp\\UnixTestApp\\obj\\",
+      "projectPath": "D:\\Univer\\Unix\\Labs\\Lab1\\Proj\\UnixTest\\UnixTestApp\\UnixTestApp.csproj",
+      "outputPath": "D:\\Univer\\Unix\\Labs\\Lab1\\Proj\\UnixTest\\UnixTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
