@@ -1,0 +1,9 @@
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp\bin\Debug\netcoreapp1.1\UnixTestApp.deps.json
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp\bin\Debug\netcoreapp1.1\UnixTestApp.runtimeconfig.json
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp\bin\Debug\netcoreapp1.1\UnixTestApp.runtimeconfig.dev.json
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp\bin\Debug\netcoreapp1.1\UnixTestApp.dll
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp\bin\Debug\netcoreapp1.1\UnixTestApp.pdb
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp\obj\Debug\netcoreapp1.1\UnixTestApp.csprojResolveAssemblyReference.cache
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp\obj\Debug\netcoreapp1.1\UnixTestApp.AssemblyInfo.cs
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp\obj\Debug\netcoreapp1.1\UnixTestApp.dll
+D:\Univer\Unix\Labs\Lab1\Proj\UnixTestApp\UnixTestApp\obj\Debug\netcoreapp1.1\UnixTestApp.pdb
