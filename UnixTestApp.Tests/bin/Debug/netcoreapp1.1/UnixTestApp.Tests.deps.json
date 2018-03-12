@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "b5c3686ce0cdda215152769c4513ea6fd6dfd873"
+    "signature": "c0b581f3d756350a610067346361957023f5e01f"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,6 +9,8 @@
       "unixtestapp.tests/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.0.0",
+          "NUnit": "3.9.0",
+          "NUnit.ConsoleRunner": "3.8.0",
           "UnixTestApp": "1.0.0",
           "xunit": "2.2.0",
           "xunit.runner.console": "2.3.1",
@@ -271,6 +273,12 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
         }
       },
+      "nunit/3.9.0": {
+        "runtime": {
+          "lib/netstandard1.6/nunit.framework.dll": {}
+        }
+      },
+      "nunit.consolerunner/3.8.0": {},
       "system.collections.nongeneric/4.0.1": {
         "runtime": {
           "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
@@ -456,6 +464,20 @@
       "sha512": "sha512-C3T/Wtj+20WJ05CHkSUek1WUt5oOll2uMetnlS2dl+AIymK+FnD9Ki1qRTnQQqtiWNFBVPt35RnUQR9mO3Fozw==",
       "path": "newtonsoft.json/9.0.1",
       "hashPath": "newtonsoft.json.9.0.1.nupkg.sha512"
+    },
+    "nunit/3.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0zKA0MB0bRKqPyInRlTgKvZTx/MhJGGnSUJ4sjx68JnfVGbH0Tp+Xq7uW+HVw0B5gCN8s0pUQlrbC3mjGyUU8A==",
+      "path": "nunit/3.9.0",
+      "hashPath": "nunit.3.9.0.nupkg.sha512"
+    },
+    "nunit.consolerunner/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CGgYNNMPmK7/BZ7g36g1GcS3heLN2Zl2aAm54dhOZAXZW3l+3S+imyZ3J9WA+SCiRyBC0PbmkCtb4dVkxoxytw==",
+      "path": "nunit.consolerunner/3.8.0",
+      "hashPath": "nunit.consolerunner.3.8.0.nupkg.sha512"
     },
     "system.collections.nongeneric/4.0.1": {
       "type": "package",

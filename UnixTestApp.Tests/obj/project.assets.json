@@ -718,6 +718,23 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
         }
       },
+      "NUnit/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.0",
+          "System.Runtime.Loader": "4.3.0",
+          "System.Threading.Thread": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard1.6/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.6/nunit.framework.dll": {}
+        }
+      },
+      "NUnit.ConsoleRunner/3.8.0": {
+        "type": "package"
+      },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
         "type": "package",
         "runtimeTargets": {
@@ -3500,6 +3517,60 @@
         "newtonsoft.json.9.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "tools/install.ps1"
+      ]
+    },
+    "NUnit/3.9.0": {
+      "sha512": "0zKA0MB0bRKqPyInRlTgKvZTx/MhJGGnSUJ4sjx68JnfVGbH0Tp+Xq7uW+HVw0B5gCN8s0pUQlrbC3mjGyUU8A==",
+      "type": "package",
+      "path": "nunit/3.9.0",
+      "files": [
+        "CHANGES.md",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "lib/monoandroid/nunit.framework.dll",
+        "lib/monoandroid/nunit.framework.xml",
+        "lib/net20/NUnit.System.Linq.dll",
+        "lib/net20/nunit.framework.dll",
+        "lib/net20/nunit.framework.xml",
+        "lib/net35/nunit.framework.dll",
+        "lib/net35/nunit.framework.xml",
+        "lib/net40/nunit.framework.dll",
+        "lib/net40/nunit.framework.xml",
+        "lib/net45/nunit.framework.dll",
+        "lib/net45/nunit.framework.xml",
+        "lib/netstandard1.3/nunit.framework.dll",
+        "lib/netstandard1.3/nunit.framework.xml",
+        "lib/netstandard1.6/nunit.framework.dll",
+        "lib/netstandard1.6/nunit.framework.xml",
+        "lib/uap/nunit.framework.dll",
+        "lib/uap/nunit.framework.xml",
+        "lib/xamarin.ios/nunit.framework.dll",
+        "lib/xamarin.ios/nunit.framework.xml",
+        "nunit.3.9.0.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "NUnit.ConsoleRunner/3.8.0": {
+      "sha512": "CGgYNNMPmK7/BZ7g36g1GcS3heLN2Zl2aAm54dhOZAXZW3l+3S+imyZ3J9WA+SCiRyBC0PbmkCtb4dVkxoxytw==",
+      "type": "package",
+      "path": "nunit.consolerunner/3.8.0",
+      "files": [
+        "CHANGES.txt",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "nunit.consolerunner.3.8.0.nupkg.sha512",
+        "nunit.consolerunner.nuspec",
+        "tools/Mono.Cecil.dll",
+        "tools/nunit-agent-x86.exe",
+        "tools/nunit-agent-x86.exe.config",
+        "tools/nunit-agent.exe",
+        "tools/nunit-agent.exe.config",
+        "tools/nunit.engine.api.dll",
+        "tools/nunit.engine.api.xml",
+        "tools/nunit.engine.dll",
+        "tools/nunit.nuget.addins",
+        "tools/nunit3-console.exe",
+        "tools/nunit3-console.exe.config"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -8604,6 +8675,8 @@
     ".NETCoreApp,Version=v1.1": [
       "Microsoft.NET.Test.Sdk >= 15.0.0",
       "Microsoft.NETCore.App >= 1.1.1",
+      "NUnit >= 3.9.0",
+      "NUnit.ConsoleRunner >= 3.8.0",
       "UnixTestApp >= 1.0.0",
       "xunit >= 2.2.0",
       "xunit.runner.console >= 2.3.1",
@@ -8640,6 +8713,14 @@
           "xunit.runner.visualstudio": {
             "target": "Package",
             "version": "2.2.0"
+          },
+          "NUnit.ConsoleRunner": {
+            "target": "Package",
+            "version": "3.8.0"
+          },
+          "NUnit": {
+            "target": "Package",
+            "version": "3.9.0"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
